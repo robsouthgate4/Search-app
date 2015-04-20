@@ -1,0 +1,16 @@
+.map-container {
+  float: left;
+  width: 100%;
+}
+
+.filters{
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 30px 20px 0 20px;
+    width: 100%;
+    background: lighten(#ccc, 13%);
+    z-index: 100;
+}
+
+
